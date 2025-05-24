@@ -1,16 +1,9 @@
 streamlit
-base64
-time
-cv2
-image
-numpy
-pandas
-scikit-learn
-matplotlib
 opencv-python
+Pillow
+numpy
 tensorflow
 keras
-Pillow
+matplotlib
 
-Fixed requirements.txt – added missing libraries
 
