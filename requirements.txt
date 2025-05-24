@@ -1,6 +1,10 @@
-streamlit==1.24.0
-tensorflow==2.13.0
-opencv-python==4.7.0.72
-numpy==1.25.1
-pandas==2.0.3
-Pillow==10.0.0
+streamlit
+numpy
+pandas
+matplotlib
+opencv-python
+tensorflow
+keras
+Pillow
+
+Fixed requirements.txt – added missing libraries
