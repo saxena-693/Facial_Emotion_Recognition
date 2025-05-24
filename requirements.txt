@@ -1,4 +1,8 @@
 streamlit
+base64
+time
+cv2
+image
 numpy
 pandas
 scikit-learn
