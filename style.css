@@ -1,0 +1,23 @@
+/* Header styling if any */
+h1 {
+    color: #FF4500;
+    font-weight: bold;
+}
+
+/* Custom button styles */
+.stButton > button {
+    background-color: #FF5C8A;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    padding: 10px 24px;
+    font-size: 18px;
+    font-family: 'PixelFont', monospace;
+    transition: 0.3s ease;
+}
+
+.stButton > button:hover {
+    background-color: #FF267A;
+    transform: scale(1.05);
+    box-shadow: 0px 0px 10px #FF7EB9;
+}
