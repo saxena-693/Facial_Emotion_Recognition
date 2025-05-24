@@ -1,6 +1,7 @@
 streamlit
 numpy
 pandas
+scikit-learn
 matplotlib
 opencv-python
 tensorflow
@@ -8,3 +9,4 @@ keras
 Pillow
 
 Fixed requirements.txt – added missing libraries
+
